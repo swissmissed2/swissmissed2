@@ -8,7 +8,7 @@
 
 ### 💡 About Me
 - 🎯 Spring Boot 기반 **백엔드 시스템 개발자**로 성장 중입니다.  
-- 🧩 **JPA, QueryDSL, Redis** 등을 사용해 안정성과 성능을 개선한 경험이 있습니다.  
+- 🧩 **JPA, QueryDSL, MySQL** 등을 활용해 데이터 흐름을 설계하고 성능을 개선한 경험이 있습니다.  
 - 🧠 **근본 원인 분석**과 **구조적 문제 해결**을 중요하게 생각합니다.  
 - 🚀 현재는 **가상 자산 자동 매매 시스템** 프로젝트를 진행 중입니다.  
 
@@ -24,9 +24,10 @@
 
 ### 📦 Featured Repositories
 
-[![Lost Item System](https://github-readme-stats.vercel.app/api/pin/?username=swissmissed&repo=lost-item-system&theme=tokyonight)](https://github.com/swissmissed/lost-item-system)
-[![Review Platform](https://github-readme-stats.vercel.app/api/pin/?username=swissmissed&repo=review-platform&theme=tokyonight)](https://github.com/swissmissed/review-platform)
-[![Auto Trading Bot](https://github-readme-stats.vercel.app/api/pin/?username=swissmissed&repo=auto-trading-bot&theme=tokyonight)](https://github.com/swissmissed/auto-trading-bot)
+[![Capstone_BE](https://github-readme-stats.vercel.app/api/pin/?username=swissmissed&repo=Capstone_BE&theme=tokyonight)](https://github.com/swissmissed/Capstone_BE)
+[![reeltalk-Be](https://github-readme-stats.vercel.app/api/pin/?username=swissmissed&repo=reeltalk-Be&theme=tokyonight)](https://github.com/swissmissed/reeltalk-Be)
+[![DrawingProgram](https://github-readme-stats.vercel.app/api/pin/?username=swissmissed&repo=DrawingProgram&theme=tokyonight)](https://github.com/swissmissed/DrawingProgram)
+[![BlockByeBye](https://github-readme-stats.vercel.app/api/pin/?username=swissmissed&repo=BlockByeBye&theme=tokyonight)](https://github.com/swissmissed/BlockByeBye)
 
 ---
 
@@ -37,8 +38,17 @@
   <img src="https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/QueryDSL-0088CC?logo=databricks&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/AWS%20S3-232F3E?logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
+</p>
+
+---
+
+### 📚 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Asynchronous%20Event%20Handling-555555?logo=spring&logoColor=white">
 </p>
 
 ---
